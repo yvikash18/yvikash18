@@ -8,7 +8,7 @@ Feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/vikashyadav-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvikash/)
 [![Instagram Badge](https://img.shields.io/badge/-yvikash18-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yvikash18)
-[![Site Badge](https://img.shields.io/badge/-https://vikash.pages.dev-blue?style=flat-square&logo=instagram&logoColor=white)](https://vikash.pages.dev/)
+[![Site Badge](https://img.shields.io/badge/-https://vikash.pages.dev-blue?style=flat-square&logo=weblate&logoColor=white)](https://vikash.pages.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-yvikash880@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:yvikash880@gmail.com)
 
 ## ⚡ My Tech Stack
