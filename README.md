@@ -12,7 +12,7 @@ Feel free to connect with me here:
 [![Gmail Badge](https://img.shields.io/badge/-yvikash880@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:yvikash880@gmail.com)
 
 ## ⚡ My Tech Stack
-
+![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
