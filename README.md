@@ -7,7 +7,7 @@ A full stack web developer with a strong focus in frontend development. My passi
 Feel free to connect with me here:
 
 
-[![Site Badge](https://img.shields.io/badge/-https://vikash.pages.dev-blue?style=flat-square&logo=weblate&logoColor=white)](https://vikash.pages.dev/)
+
 [![Gmail Badge](https://img.shields.io/badge/-yvikash9935@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:yvikash9935@gmail.com)
 
 ## ⚡ My Tech Stack
