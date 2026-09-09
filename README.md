@@ -154,20 +154,14 @@ class VikashYadav:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yvikash18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvikash18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide=TeX&langs_count=8" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yvikash18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yvikash18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide=TeX&langs_count=8" height="165" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yvikash18&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=yvikash18&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" alt="GitHub streak"/>
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yvikash18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="100%" alt="Contribution graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yvikash18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
 
 </div>
 
