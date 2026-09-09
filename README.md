@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="banner.svg" width="100%" alt="AI · Backend · Security animated banner"/>
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-vikash.pages.dev-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vikash.pages.dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-yvikash880%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvikash880@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yvikash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yvikash)
@@ -18,27 +22,64 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="coding gif"/>
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
 
-```python
-class VikashYadav:
-    role      = "Backend Developer (AI & Security)"
-    company   = "Drishti IAS · VDK Eduventures Pvt. Ltd."
-    education = "MCA · Galgotias College of Engineering & Technology"
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/-💼_ROLE-0d1117?style=flat-square" alt=""/><br/>
+<b>Backend Developer</b><br/>
+<sub>AI &amp; Security</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/-🏢_COMPANY-0d1117?style=flat-square" alt=""/><br/>
+<a href="https://www.drishtiias.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Drishti_IAS_Logo.png/330px-Drishti_IAS_Logo.png" height="42" alt="Drishti IAS"/></a><br/>
+<sub>VDK Eduventures Pvt. Ltd.</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/-🎓_EDUCATION-0d1117?style=flat-square" alt=""/><br/>
+<b>MCA</b><br/>
+<sub>Galgotias College of Engineering &amp; Technology</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/-📍_LOCATION-0d1117?style=flat-square" alt=""/><br/>
+<b>India</b> 🇮🇳<br/>
+<sub>Open to remote collaboration</sub>
+</td>
+</tr>
+</table>
 
-    builds    = ["LLM evaluation pipelines", "High-throughput REST APIs",
-                 "Threat analytics & risk-scoring engines"]
-    cares     = ["Fault tolerance", "Checkpoint-based recovery",
-                 "Security-first design"]
-    location  = "India 🇮🇳"
-```
+</td>
+<td width="45%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding gif"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🔨 What I build**
+
+![LLM Pipelines](https://img.shields.io/badge/LLM_Evaluation_Pipelines-7c3aed?style=for-the-badge&logo=googlegemini&logoColor=white)
+![REST APIs](https://img.shields.io/badge/High--Throughput_REST_APIs-1e3a8a?style=for-the-badge&logo=fastapi&logoColor=white)
+![Threat Analytics](https://img.shields.io/badge/Threat_Analytics_%26_Risk_Scoring-0f172a?style=for-the-badge&logo=splunk&logoColor=white)
+
+**💜 What I care about**
+
+![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-22d3ee?style=for-the-badge&logo=statuspage&logoColor=black)
+![Checkpoint Recovery](https://img.shields.io/badge/Checkpoint--Based_Recovery-22d3ee?style=for-the-badge&logo=databricks&logoColor=black)
+![Security First](https://img.shields.io/badge/Security--First_Design-22d3ee?style=for-the-badge&logo=owasp&logoColor=black)
+
+</div>
 
 - 🤖 **AI Engineer** — production LLM systems on **Gemini** & **Perplexity**: rubric-driven grading, fact verification, structured-output parsing
 - ⚙️ **Backend Developer** — scalable, low-latency REST APIs with concurrency, task scheduling, and crash-resilient state recovery
 - 🛡️ **Security Engineer** — API hardening, mobile app hardening (Android/iOS), RASP, AES-encrypted payloads, threat analytics, DRM research
 - 🎓 Certified: **NIELIT O Level** · **IBM SkillsBuild — AI Fundamentals**
-
-<br clear="right"/>
 
 ---
 
