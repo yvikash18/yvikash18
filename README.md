@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=210&section=header&text=Vikash%20Yadav&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Security%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="banner.svg" width="100%" alt="Vikash Yadav — Backend Developer (AI &amp; Security)"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&lines=Building+LLM-powered+backend+systems+%F0%9F%A4%96;Fault-tolerant+APIs+that+don't+lose+state+%E2%9A%99%EF%B8%8F;Security-first+architecture%2C+always+%F0%9F%9B%A1%EF%B8%8F;Shipping+production-grade+software+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-<br/>
-
-<img src="banner.svg" width="100%" alt="AI · Backend · Security animated banner"/>
 
 <br/>
 
